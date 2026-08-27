@@ -23,7 +23,7 @@ Snipely is a highly efficient, multi-user Telegram bot designed to monitor Vinte
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/RYZE0606/snipely-bot.git](https://github.com/RYZE0606/snipely-bot.git)
+git clone https://github.com/RYZE0606/snipely-bot.git
 cd snipely-bot
 ```
 
