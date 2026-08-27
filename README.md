@@ -13,14 +13,17 @@ Snipely is a highly efficient, multi-user Telegram bot designed to monitor Vinte
 ## 🚀 Getting Started
 
 ### Prerequisites
-- [Docker](https://www.docker.com/) and Docker Compose installed on your host machine.
-- A valid Telegram Bot Token.
+- **Docker & Docker Compose:** Required to run the bot. 
+  *(If you are using a Raspberry Pi or Linux server, you can install both in one go using this command:)*
+  ```bash
+  curl -sSL [https://get.docker.com](https://get.docker.com) | sh
+  ```
 
 ### Installation
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/RYZE0606/snipely-bot
+git clone [https://github.com/RYZE0606/snipely-bot.git](https://github.com/RYZE0606/snipely-bot.git)
 cd snipely-bot
 ```
 
